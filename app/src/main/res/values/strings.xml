@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lab2_recyclerView</string>
+    <string name="text_to_image">TextForImage</string>
+</resources>
